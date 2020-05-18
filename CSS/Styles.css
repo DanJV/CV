@@ -1,0 +1,31 @@
+/****************************TAG SELECTORS****************************/
+body{
+  background-color: aliceblue;
+}
+hr{
+  border-top: 5px dotted slategray;
+  width: 10%;
+}
+
+h1{
+  color: darkblue;
+  text-decoration: underline;
+}
+
+h2{
+  color: darkblue;
+  text-decoration: underline;
+}
+
+h3{
+  color: slategray;
+}
+
+/****************************CLASS SELECTORS****************************/
+.My_Name{
+  color: darkblue;
+}
+
+.My_Name:hover{
+  color: blue;
+}
